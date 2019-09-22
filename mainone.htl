@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <title>collaborativetech.com</title>
+		<meta name = "Author" content = "Eliora Cooper"
+		<meta name = "Keywords" content = "collaborative telepresence" "telepresence"/>
+		<meta http-equiv="content-type="text/html;charset="UTF-8"
+		</head>
+</head>
+<center>
+<body>
+	body style = "background:url('Asset 2.png')">
+<img src="logo.jpg" align="fully justified">
+ <br>
+ 
+ <font size ="10" face ="Arial Narrow" color=black align="fully justified">
+I  N  D  E  P  E  N  D  E  N  T &nbsp;  N  A  T  I  O  N &nbsp; M  O  D  E  L  L  I  N  G &nbsp;A  G  E  N  C  Y 
+</font></h2>
+ <br>
+ &nbsp; <br>
+ <hr>
+ <h3> <h3> <a href="main.html"style="color:black">HOME</a> | <a href="AboutUs.html"style="color:black"> ABOUT US</a> |  <a href="BecomeaModel.html"style="color:black"> BECOME A MODEL</a>  |  <a href="GALLERY.html"style="color:black"> GALLERY</a>  |  <a href="ContactUs.html"style="color:black"> CONTACT US </a></h3>
+ <hr>
+ </center>
+ <marquee>
+ <img src="modelpic1.jpg" alt="modelpic" style="width:700px;height:900px;">
+ <img src="modelpic2.jpg" alt="modelpic" style="width:700px;height:900px;"> 
+ <img src="modelpic3.jpg" alt="modelpic" style="width:700px;height:900px;" > 
+ <img src="modelpic4.jpg" alt="modelpic" style="width:700px;height:900px;">
+ <img src="modelpic-5.png"alt="modelpic" style="width:700px;height:900px;"> 
+ <img src="modelpic6.jpg" alt="modelpic" style="width:700px;height:900px;"> 
+</marquee>
+
+&nbsp;
+<center><p> <b> 
+A good model can advance fashion by ten years" - Yves Saint Laurent
+</b></p></center>
+ 
+<hr>
+<center>Copyright & Copy2016; All Right Reserved | INMA.org</center>
+<hr>
+</body>
+
+
+</html>
+
